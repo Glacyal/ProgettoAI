@@ -10,7 +10,6 @@ import java.util.Random;
 
 
 public class Client {
-	int into=0;
 	private Socket socket;
 	private BufferedReader in;
 	private PrintWriter out;
